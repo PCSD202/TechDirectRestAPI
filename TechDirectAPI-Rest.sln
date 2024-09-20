@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TechDirectAPI-Rest", "TechDirectAPI-Rest\TechDirectAPI-Rest.csproj", "{8AA3EA28-D407-4950-A119-B12B05B4220F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TechDirectAPI.Tests", "TechDirectAPI.Tests\TechDirectAPI.Tests.csproj", "{A2285E66-6558-4F9F-BF2F-D1C6767508AB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{8AA3EA28-D407-4950-A119-B12B05B4220F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8AA3EA28-D407-4950-A119-B12B05B4220F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8AA3EA28-D407-4950-A119-B12B05B4220F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2285E66-6558-4F9F-BF2F-D1C6767508AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2285E66-6558-4F9F-BF2F-D1C6767508AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2285E66-6558-4F9F-BF2F-D1C6767508AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2285E66-6558-4F9F-BF2F-D1C6767508AB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
